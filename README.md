@@ -26,11 +26,12 @@ You can install them using pip:
 
 ```bash
   pip install numpy
-pip install pandas
-pip install matplotlib.pyplot
-pip install scikit-learn
+  pip install pandas
+  pip install matplotlib.pyplot
+  pip install scikit-learn
 
 ## Usage
+
 1) Clone this repository:
 ```bash
   git clone https://github.com/Ahmad1015/Simple-Linear-Regression.git
